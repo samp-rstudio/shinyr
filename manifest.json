@@ -47,7 +47,7 @@
         "Repository": "http://rspm/default/latest",
         "description": {
           "Package": "duckdb",
-          "Version": "1-bad",
+          "Version": "0.7.0",
           "URL": "https://cran.r-project.org/package=duckdb",
           "Repository": "RSPM"
         }
