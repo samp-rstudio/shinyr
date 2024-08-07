@@ -42,6 +42,16 @@
         "Built": "R 4.4.0; ; 2024-06-03 04:07:24 UTC; unix"
       }
     },
+    "duckdb": {
+        "Source": "CRAN",
+        "Repository": "http://rspm/default/latest",
+        "description": {
+          "Package": "duckdb",
+          "Version": "1-bad",
+          "URL": "https://cran.r-project.org/package=duckdb",
+          "Repository": "RSPM"
+        }
+    },
     "MASS": {
       "Source": "CRAN",
       "Repository": "http://rspm/default/latest",
